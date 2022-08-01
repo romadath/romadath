@@ -2,7 +2,7 @@
 - 👀 I’m interested in new things
 - 🌱 I’m currently learning Github and copado
 - 💞️ I’m looking to collaborate on release management
-- 📫 How to reach me call me!
+- 📫 How to reach me - call me!
 
 <!---
 romadath/romadath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
